@@ -14,7 +14,7 @@ Para o modo de um jogador, o arquivo "palavras.txt" deve constar na mesma pasta 
 Não testei em Linux, mas no Windows funciona bem.
 
 ## Adicionar palavras
-Neste caso deve-se inserir uma palavra e uma dica por linha no palavras.txt. Estas informações devem estar separadas unicamente por "#".
+Neste caso deve-se inserir uma palavra e uma dica por linha no palavras.txt, as quais devem estar separadas unicamente por "#".
 
 ### Características
 Seis chances para errar;
